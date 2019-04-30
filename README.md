@@ -1,17 +1,19 @@
 # AMIA Demo
 
-**What**:  Demo app using Flutter
-**How**: From "hello world" --> a basic mirror of the conference's app
-**When**: Given at AMIA's Clinical Informatics Conference on April 30, 2019 in Atlanta, GA
+- **What**:  Demo app using Flutter
+- **How**: From "hello world" --> a basic mirror of the conference's app
+- **When**: Given at AMIA's Clinical Informatics Conference on April 30, 2019 in Atlanta, GA
 
-**How to use**: 
-- In the top right of this screen, click `Clone or download` in green
-- Make sure you have [Flutter installed](https://flutter.dev/docs/get-started/install). 
-- In your preferred IDE, open this folder
-- Go to lib/main.dart 
-- Go to line 16 where it says `home: Home4(),`
-- Change `Home4()` to `Home1()`, `Home2()`, or `Home3()`
-- Hot reload to see what happens
+- **How to use**: 
+	- In the top right of this screen
+		- Click `Clone or download` in green
+		- Make sure you have [Flutter installed](https://flutter.dev/docs/get-started/install). 
+	- In your preferred IDE
+		- Open the containing folder
+		- Go to lib/main.dart 
+		- Go to line 16 where it says `home: Home4(),`
+		- Change `Home4()` to `Home1()`, `Home2()`, or `Home3()`
+	- Hot reload to see what happens
 - Follow along with the slides below
 
 ## Slides can be found [here](http://bit.ly/amia-flutter)
@@ -20,5 +22,5 @@
 - [Part 3 - Intermediate](https://drive.google.com/open?id=1ifw7NwFbAA9gf21SBrgvHrpJlPeq4EjDyfLan6HT0FI) 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5OTcyOTQ5Ml19
+eyJoaXN0b3J5IjpbLTEyNDE2NTgwNjksLTQ5OTcyOTQ5Ml19
 -->
