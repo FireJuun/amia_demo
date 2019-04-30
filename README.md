@@ -21,8 +21,8 @@
 - [Part 2 - Beginner](https://drive.google.com/open?id=1Xd1dWVGmQkCYlmVC-V9ra7q62W8bAX1QOmEEwP6QgpI)
 - [Part 3 - Intermediate](https://drive.google.com/open?id=1ifw7NwFbAA9gf21SBrgvHrpJlPeq4EjDyfLan6HT0FI) 
 
-<img src="amia-demo-app.png" width="250" />
+<img src="amia-demo-app.png" width="400" />
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTM5MTQ3NywtMTI0MTY1ODA2OSwtND
-k5NzI5NDkyXX0=
+eyJoaXN0b3J5IjpbLTE3ODA0NzI2NTQsLTEyNDE2NTgwNjksLT
+Q5OTcyOTQ5Ml19
 -->
