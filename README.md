@@ -1,16 +1,24 @@
-# amia_demo
+# AMIA Demo
 
-A new Flutter project.
+**What**:  Demo app using Flutter
+**How**: From "hello world" --> a basic mirror of the conference's app
+**When**: Given at AMIA's Clinical Informatics Conference on April 30, 2019 in Atlanta, GA
 
-## Getting Started
+**How to use**: 
+- In the top right of this screen, click `Clone or download` in green
+- Make sure you have [Flutter installed](https://flutter.dev/docs/get-started/install). 
+- In your preferred IDE, open this folder
+- Go to lib/main.dart 
+- Go to line 16 where it says `home: Home4(),`
+- Change `Home4()` to `Home1()`, `Home2()`, or `Home3()`
+- Hot reload to see what happens
+- Follow along with the slides below
 
-This project is a starting point for a Flutter application.
+## Slides can be found [here](http://bit.ly/amia-flutter)
+- [Part 1 - Intro](https://drive.google.com/open?id=10G0DGA1Kts9f7vjEXMJFkpyv3rRHtfCWeFGNe1l0pZg)
+- [Part 2 - Beginner](https://drive.google.com/open?id=1Xd1dWVGmQkCYlmVC-V9ra7q62W8bAX1QOmEEwP6QgpI)
+- [Part 3 - Intermediate](https://drive.google.com/open?id=1ifw7NwFbAA9gf21SBrgvHrpJlPeq4EjDyfLan6HT0FI) 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTQ5OTcyOTQ5Ml19
+-->
